@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-20T21:53:49 EAT" name="Default suite" finished-at="2023-10-20T21:54:03 EAT" duration-ms="14212">
+    <groups>
+    </groups>
+    <test started-at="2023-10-20T21:53:49 EAT" name="Default test" finished-at="2023-10-20T21:54:03 EAT" duration-ms="14212">
+      <class name="com.test.PutPatchAndDelete_Demo">
+        <test-method signature="testDelete()[pri:0, instance:com.test.PutPatchAndDelete_Demo@7205765b]" started-at="2023-10-20T21:53:50 EAT" name="testDelete" finished-at="2023-10-20T21:54:01 EAT" duration-ms="11760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testPatch()[pri:0, instance:com.test.PutPatchAndDelete_Demo@7205765b]" started-at="2023-10-20T21:54:01 EAT" name="testPatch" finished-at="2023-10-20T21:54:02 EAT" duration-ms="1146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPatch -->
+        <test-method signature="testPut()[pri:0, instance:com.test.PutPatchAndDelete_Demo@7205765b]" started-at="2023-10-20T21:54:03 EAT" name="testPut" finished-at="2023-10-20T21:54:03 EAT" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPut -->
+      </class> <!-- com.test.PutPatchAndDelete_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
